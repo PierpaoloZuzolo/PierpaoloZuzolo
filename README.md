@@ -1,5 +1,3 @@
-# Hi there 👋
-
 ## 🎓 University Projects
 
 <p align="center">
